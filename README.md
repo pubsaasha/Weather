@@ -15,3 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # current_weather
+![image alt]([image_url](https://github.com/pubsaasha/Weather/blob/6e8f813c08d0035c05e05193fbd9837da4dd5807/Rainy.PNG))
+![image alt]([image_url](https://github.com/pubsaasha/Weather/blob/6e8f813c08d0035c05e05193fbd9837da4dd5807/Sunny.PNG))
+![image alt]([image_url](https://github.com/pubsaasha/Weather/blob/6e8f813c08d0035c05e05193fbd9837da4dd5807/Cloudy.PNG))
+![image alt]([image_url](https://github.com/pubsaasha/Weather/blob/6e8f813c08d0035c05e05193fbd9837da4dd5807/display.PNG))
